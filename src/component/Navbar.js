@@ -40,10 +40,12 @@ const Navbar = () => {
         </div>
       </div>
       <div className="nav-section">
-        <img
-          width={300}
-          src="https://assets.turbologo.com/blog/en/2021/07/07045753/hm-symbol-logo.png"
-        />
+        <a href="https://mjkorean-hnm.netlify.app/">
+          <img
+            width={300}
+            src="https://assets.turbologo.com/blog/en/2021/07/07045753/hm-symbol-logo.png"
+          />
+        </a>
       </div>
       <div className="menu-area">
         <ul className="menu-list">
